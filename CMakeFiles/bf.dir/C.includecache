@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/bf.h
+stdio.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/stdio.h
+stdlib.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/stdlib.h
+unistd.h
+-
+fcntl.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/fcntl.h
+string.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/string.h
+fuse.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/fuse.h
+stddef.h
+-
+ddriver.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/ddriver.h
+errno.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/errno.h
+types.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/types.h
+
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/ddriver.h
+ddriver_ctl_user.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/ddriver_ctl_user.h
+stdio.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/stdio.h
+
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/ddriver_ctl_user.h
+sys/ioctl.h
+-
+
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/types.h
+
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/src/bf_utils.c
+../include/bf.h
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/include/bf.h
+

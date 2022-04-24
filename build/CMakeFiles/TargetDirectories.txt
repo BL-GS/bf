@@ -1,0 +1,3 @@
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/build/CMakeFiles/rebuild_cache.dir
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/build/CMakeFiles/edit_cache.dir
+/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/build/CMakeFiles/bf.dir

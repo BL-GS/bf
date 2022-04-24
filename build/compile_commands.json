@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/build",
+  "command": "/usr/bin/gcc  -I.././include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/bf.dir/src/bf.c.o   -c /home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/src/bf.c",
+  "file": "/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/src/bf.c"
+},
+
+{
+  "directory": "/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/build",
+  "command": "/usr/bin/gcc  -I.././include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/bf.dir/src/bf_utils.c.o   -c /home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/src/bf_utils.c",
+  "file": "/home/blgs/RiscV/WorkSpace/Code/user-land-filesystem/fs/bf/src/bf_utils.c"
+}
+]
